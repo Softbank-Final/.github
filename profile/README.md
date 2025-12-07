@@ -9,6 +9,7 @@
 
 
 
+
 **Lambda에 의존하지 않고, EC2 위에 직접 구축한 셀프 호스트형 FaaS 플랫폼**
 
 ## 1. 프로덕트 개요 (Product Overview)
