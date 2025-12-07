@@ -1,5 +1,3 @@
-<img width="1077" height="1100" alt="image" src="https://github.com/user-attachments/assets/3efe2a73-de0e-42fc-91f5-3593243c4a3c" />## Hi there 👋
-
 # NanoGrid (ナノグリッド)
 
 **Lambda에 의존하지 않고, EC2 위에 직접 구축한 셀프 호스트형 FaaS 플랫폼**
@@ -28,7 +26,7 @@
 
 ## 3. **아키텍처 및 주요 기능 (Architecture & Key Features)**
 
-
+<img width="1077" height="1100" alt="image" src="https://github.com/user-attachments/assets/3efe2a73-de0e-42fc-91f5-3593243c4a3c" />
 
 ### 3-1. Lambda-less 독자 제어 평면 (Control Plane)
 
