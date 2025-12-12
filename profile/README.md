@@ -1,7 +1,8 @@
 # NanoGrid (ナノグリッド)
-> THEME
-"Run Your Functions Instantly over HTTP"
-EC2/Compute Engine 위에서 구현하는 차세대 Serverless 플랫폼
+
+## "THEME : "Run Your Functions Instantly over HTTP" 
+> EC2/Compute Engine 위에서 구현하는 차세대 Serverless 플랫폼
+
 > 
 ## 😁 팀원 소개
 
